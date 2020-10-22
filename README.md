@@ -1,4 +1,4 @@
 ---
-permalink: /technomart/index.html
+permalink: /index.html
 ---
 # kirilvever
